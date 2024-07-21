@@ -3,7 +3,7 @@ electronic-waste-management-system
 #############################
 An advanced electronic management system(e-waste).
 
-for a given task.
+[](EWASTE_SIH2023.pptx)
 
 ###################
 Project Features
