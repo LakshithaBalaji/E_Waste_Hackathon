@@ -12,8 +12,7 @@ Project Features
 	- User identification and authentication
 	- Separate Users' (**ADMIN, CLIENT**) privilegdes
 	- perform various crud functionalities e.g manage wastes, clients, gadgets
-	- Generate customized reports based on the user's priviledges
-	- Added SMS and Payment Gateways
+	- Generate customized reports based on the user's priviledge.
 	- Plus more awesome features to be explored and to find by yourself.	
 	
 		- **Admin functionalities**
