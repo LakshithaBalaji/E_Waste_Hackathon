@@ -6,11 +6,11 @@ An advanced electronic management system(e-waste).
 Project Screenshots
 ###################
 
-![](page1.png)
-![](Screenshot 2024-07-21 104126.png)
-![]()
-![]()
-![]()
+![](https://github.com/LakshithaBalaji/E_Waste_Hackathon/edit/main/page1.png)
+![](page2.png)
+![](page3.png)
+![](page4.png)
+![](page5.png)
 
 
 ###################
