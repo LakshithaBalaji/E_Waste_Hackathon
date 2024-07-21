@@ -7,7 +7,7 @@ Project Screenshots
 ###################
 
 ![](https://github.com/LakshithaBalaji/E_Waste_Hackathon/edit/main/page1.png)
-![](page2.png)
+![](main.png)
 ![](page3.png)
 ![](page4.png)
 ![](page5.png)
