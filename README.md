@@ -1,21 +1,21 @@
-#############################
-electronic-waste-management-system
-#############################
-An advanced electronic management system(e-waste).
-###################
-Project Screenshots
-###################
 
-![](https://github.com/LakshithaBalaji/E_Waste_Hackathon/edit/main/page1.png)
+# E-WASTE MANAGEMENT SMART INDIA HACKATHON 2023 PROJECT
+An advanced electronic management system(e-waste).
+
+# PROJECT SCREENSHOTS
+
 ![](main.png)
+![](page1.png)
 ![](page3.png)
 ![](page4.png)
 ![](page5.png)
 
+# SIH SUBMISSION PPT
+[](EWASTE_SIH2023.pptx)
 
-###################
-Project Features
-###################
+
+
+# PROJECT FEATURES
 
 	- User identification and authentication
 	- Separate Users' (**ADMIN, CLIENT**) privilegdes
@@ -36,11 +36,7 @@ Project Features
 
 
 
-*******************
-Server Requirements
-*******************
 
-PHP version 5.6 or newer is recommended.
-.
+
 
 
